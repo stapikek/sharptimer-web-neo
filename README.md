@@ -18,7 +18,7 @@
 
 - **PHP 7.4+**
 - **MySQL 5.7+**
-- [NEO 3.5]([https://stellarteam.store/resource/template-neo-v3](https://stellarteam.ru/resource/template-neo-v3))
+- [NEO 3.5](https://stellarteam.ru/resource/template-neo-v3)
 
 ---
 

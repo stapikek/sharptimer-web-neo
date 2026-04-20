@@ -1,0 +1,132 @@
+{
+    "_title": {
+        "RU": "Рекорды",
+        "EN": "Records",
+        "UA": "Рекорди"
+    },
+    "_description": {
+        "RU": "Лучшие рекорды серверов",
+        "EN": "Best records of servers",
+        "UA": "Кращі рекорди серверів"
+    },
+    "_search_placeholder": {
+        "RU": "Поиск карты",
+        "EN": "Search map",
+        "UA": "Пошук карти"
+    },
+    "_total_records": {
+        "RU": "Всего рекордов",
+        "EN": "Total Records",
+        "UA": "Усього рекордів"
+    },
+    "_total_players": {
+        "RU": "Всего игроков",
+        "EN": "Total Players",
+        "UA": "Усього гравців"
+    },
+    "_total_maps": {
+        "RU": "Всего карт",
+        "EN": "Total Maps",
+        "UA": "Усього карт"
+    },
+    "_player": {
+        "RU": "Игрок",
+        "EN": "Player",
+        "UA": "Гравець"
+    },
+    "_time": {
+        "RU": "Время",
+        "EN": "Time",
+        "UA": "Час"
+    },
+    "_map": {
+        "RU": "Карта",
+        "EN": "Map",
+        "UA": "Карта"
+    },
+    "_place": {
+        "RU": "Место",
+        "EN": "Place",
+        "UA": "Місце"
+    },
+    "_no_records": {
+        "RU": "Рекорды не найдены",
+        "EN": "No records found",
+        "UA": "Рекорди не знайдені"
+    },
+    "_map_surf": {
+        "RU": "SURF карты",
+        "EN": "SURF Maps",
+        "UA": "SURF карти"
+    },
+    "_map_kz": {
+        "RU": "KZ карты",
+        "EN": "KZ Maps",
+        "UA": "KZ карти"
+    },
+    "_map_bhop": {
+        "RU": "BHOP карты",
+        "EN": "BHOP Maps",
+        "UA": "BHOP карти"
+    },
+    "_map_other": {
+        "RU": "Другие карты",
+        "EN": "Other Maps",
+        "UA": "Інші карти"
+    },
+    "_view_profile": {
+        "RU": "Просмотр профиля",
+        "EN": "View Profile",
+        "UA": "Перегляд профілю"
+    },
+    "_loading_records": {
+        "RU": "Загрузка рекордов...",
+        "EN": "Loading records...",
+        "UA": "Завантаження рекордів..."
+    },
+    "_loading_records_error": {
+        "RU": "Ошибка загрузки рекордов",
+        "EN": "Error loading records",
+        "UA": "Помилка завантаження рекордів"
+    },
+    "_loading_maps": {
+        "RU": "Загрузка карт...",
+        "EN": "Loading maps...",
+        "UA": "Завантаження карт..."
+    },
+    "_place_label": {
+        "RU": "Место: ",
+        "EN": "Place: ",
+        "UA": "Місце: "
+    },
+    "_player_label": {
+        "RU": "Игрок: ",
+        "EN": "Player: ",
+        "UA": "Гравець: "
+    },
+    "_time_label": {
+        "RU": "Время: ",
+        "EN": "Time: ",
+        "UA": "Час: "
+    },
+    "_view_profile_title": {
+        "RU": "Посмотреть профиль",
+        "EN": "View Profile",
+        "UA": "Переглянути профіль"
+    },
+    "_steam_title": {
+        "RU": "Steam",
+        "EN": "Steam",
+        "UA": "Steam"
+    },
+    "_no_records_message": {
+        "RU": "Рекорды не найдены",
+        "EN": "No records found",
+        "UA": "Рекорди не знайдені"
+    },
+    "_error_message": {
+        "RU": "Произошла ошибка",
+        "EN": "An error occurred",
+        "UA": "Сталася помилка"
+    }
+}

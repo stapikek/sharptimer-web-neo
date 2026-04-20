@@ -1,0 +1,25 @@
+{
+    "title": "Surf Records",
+    "info": "Статистика рекордов режима Surf",
+    "author": "stapi",
+    "page": "surf",
+    "version": "3.0",
+    "required": {
+        "core": "0.2",
+        "php": "7.4"
+    },
+    "setting": {
+        "status": 1,
+        "type": 1,
+        "available_types": "1",
+        "interface": 1,
+        "interface_adjacent": "afternavbar",
+        "data": 1,
+        "data_always": 1,
+        "translation": 1,
+        "css": 1,
+        "js": 1,
+        "cache_enable": 1,
+        "cache_time": 60
+    }
+}
